@@ -1,1 +1,0 @@
-Select Department_ID, Department_Name from MYDB.MYSCHEMA.DEPARTMENTS

@@ -1,1 +1,3 @@
+Update MYDB.POSTGRES_SNOWFLAKE_DB_MYSCHEMA.DEPARTMENTS set Department_ID=1 where Department_ID=10;
+
 Select Department_ID, Department_Name from MYDB.POSTGRES_SNOWFLAKE_DB_MYSCHEMA.DEPARTMENTS
